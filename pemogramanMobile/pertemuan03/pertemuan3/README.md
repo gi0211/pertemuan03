@@ -2,7 +2,7 @@
 Project praktikum Minggu 3 - Flexbox Mastery.
 
 ## 📸 Preview
-![App Screen](expo.jpeg)
+![App Screen](assets/images/expo.jpeg)
 
 ## 🛠️ Features
 - Responsive Grid Layout
